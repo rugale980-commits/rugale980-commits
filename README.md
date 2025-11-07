@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Ugale</h1>
-<h3 align="center">A passionate Software Developer|Building reliable, scalable backend systems</h3>
+<h3 align="center">A passionate Java Developer|Building reliable, scalable backend systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugale980-commits&label=Profile%20views&color=0e75b6&style=flat" alt="rugale980-commits" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugale980-commits" alt="rugale980-commits" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **LLM**
 
